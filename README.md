@@ -1,4 +1,6 @@
-# Studying the Interstellar Dust 
+# Researching the Interstellar Dust 
+
+<br>
 
 ![](dust.png)
 
