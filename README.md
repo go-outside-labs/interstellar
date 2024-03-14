@@ -13,7 +13,7 @@ Consequently, a general increase in absorption toward shorter wavelengths is obs
 
 In this repository I made available the source code for data reduction and analysis in IDL, and my report and results as well.
 
-[Here is the final report in this work](https://github.com/bt3gl/Studying_the_Interstellar_Dust/blob/master/Interstellar_Extinction.pdf).
+[Here is the final report in this work](https://github.com/go-outside-labs/Studying_the_Interstellar_Dust/blob/master/Interstellar_Extinction.pdf).
 
 
 

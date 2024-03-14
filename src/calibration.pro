@@ -7,7 +7,7 @@ pro calibration
 ;**********************************************************************************
 ;**********************************************************************************
 ;
-; [MARINA VON STEINKIRCH, SPRING/2012]
+; [MIA STEIN, SPRING/2012]
 ;
 ; TO COMPILE IT IN IDL:
 ;	1) Make sure you have the folders defined in constants.pro.
